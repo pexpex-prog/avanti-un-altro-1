@@ -1,0 +1,5 @@
+{
+  "name": "Avanti un Alro: Il Gioco Finale",
+  "description": "A web application that simulates the final game of the Italian TV show 'Avanti un Altro'. Players must answer 21 consecutive questions incorrectly within a 150-second time limit to win. The app uses AI to generate questions and validate answers.",
+  "requestFramePermissions": []
+}
